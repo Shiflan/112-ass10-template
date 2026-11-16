@@ -209,3 +209,4 @@ int compare_students_ranking(const void *a, const void *b);
 void rank_students(Student *students, size_t count);
 
 #endif
+
